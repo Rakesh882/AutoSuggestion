@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1469520348 source:c:\users\rakesh\desktop\autosuggestion\autosuggest\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<time.h>
+	<windows.h>
+
